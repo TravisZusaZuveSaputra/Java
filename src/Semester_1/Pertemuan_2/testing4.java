@@ -16,6 +16,7 @@ public class testing4 {
     }
     public static void close() {
         System.out.println("\\         /");
-        System.out.println();
+        System.out.println(" \\       /");
+        System.out.println("  _______");
     }
 }
