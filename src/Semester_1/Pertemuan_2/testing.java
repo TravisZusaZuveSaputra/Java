@@ -13,7 +13,7 @@ public class testing {
     }
     public static void verse2() {
         System.out.println("You're the best,");
-        System.out.println("In the west.");
+        System.out.println("In the West.");
     }
     public static void break1() {
         verse1();
