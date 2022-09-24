@@ -7,7 +7,7 @@ public class Exercise12 {
             for (int j = 0; j <= 5 - i; j++) {
                 System.out.print("-");
             }
-            for (int j = 0; j <= a; j++) {
+            for (int j = 1; j <= a; j++) {
                 System.out.print(a);
             }
             a += 2;
