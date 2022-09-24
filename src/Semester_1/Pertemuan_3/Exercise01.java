@@ -1,6 +1,6 @@
 package Semester_1.Pertemuan_3;
 
-public class testing2 {
+public class Exercise01 {
     public static void main(String[] args) {
         for (int i = 10; i <= 10; i--) {
             if (i > 1) {

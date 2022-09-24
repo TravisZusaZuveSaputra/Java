@@ -1,9 +1,9 @@
 package Semester_1.Pertemuan_3;
 
-public class testing5 {
+public class Exercise02 {
     public static void main(String[] args) {
-        for (int i = 1; i <= 6; ++i) {
-            for (int j = 1; j <= (i * 2 + (i + 5)); ++j) {
+        for (int i = 1; i <= 4; ++i) {
+            for (int stars = 1; stars <= -2 * i + 9; stars++) {
                 System.out.print("*");
             }
             System.out.println();
